@@ -25,21 +25,21 @@ conclusions based on the observations. On a map the red dot (and red
 title) for the city mean that it is the start city.
 
 ### Slow cooling
-The best route for slow cooling value 0.003 was **19074.21 km**
+The best route for slow cooling value 0.003 has distance of  **19074.21 km**
 ![The best route for slow cooling](/images/cities_slow.png)
 
 Slow cooling requires over 3000 iterations
 ![Convergence for slow cooling](/plots/plot_slow.png)
 
 ### Average cooling
-The best route for average cooling value 0.01 was **24457.48 km**
+The best route for average cooling value 0.01 has distance of  **24457.48 km**
 ![The best route for average cooling](/images/cities_average.png)
 
 Average cooling requires a bit more than 900 iterations
 ![Convergence for slow cooling](/plots/plot_average.png)
 
 ### Fast cooling
-The best route for fast cooling value 0.1 was **37499.90 km**
+The best route for fast cooling value 0.1 has distance of  **37499.90 km**
 ![The best route for fast cooling](/images/cities_fast.png)
 
 Fast cooling requires nearly 90 iterations
