@@ -1,5 +1,5 @@
 # Simulated annealing
-## Solution, which solves the salesmen problem for 30 top-populated cities of Russia.
+## Solution, which solves the salesmen problem for 30 top-populated cities in Russia.
 
 ### Goal 
 The mail goal was to find the optimal path using the Simulated Annealing algorithm for 
