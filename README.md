@@ -22,7 +22,7 @@ For a cooling rate the following values were used:
 ## Results
 The following will include the results on an experiments and several 
 conclusions based on the observations. On a map the red dot (and red 
-title) for the city mean that it is the start city
+title) for the city mean that it is the start city.
 
 ### Slow cooling
 The best route for slow cooling value 0.003 was **19074.21 km**
@@ -44,3 +44,6 @@ The best route for fast cooling value 0.1 was **37499.90 km**
 
 Fast cooling requires nearly 90 iterations
 ![Convergence for slow cooling](/plots/plot_fast.png)
+
+### Observations
+As we see, as the cooling rate descreases, the precision of approximation of the global optimum is increasing.  
