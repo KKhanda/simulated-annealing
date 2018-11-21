@@ -46,4 +46,4 @@ Fast cooling requires nearly 90 iterations
 ![Convergence for slow cooling](/plots/plot_fast.png)
 
 ### Observations
-As we see, as the cooling rate descreases, the precision of approximation of the global optimum is increasing.  
+As we see, as the cooling rate descreases, the precision of approximation of the global optimum increases.  
